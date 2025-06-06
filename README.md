@@ -19,19 +19,19 @@ Install
 Get Started
 ===
 project/  <br>
-├── src/
-│ ├── main.py
-│ ├── utils/
-│ │ ├── helper.py
-│ │ └── config.py
-│ └── models/
-│ ├── model.py
-│ └── init.py
-├── data/
-│ ├── raw/
-│ └── processed/
-├── tests/
-│ ├── test_main.py
-│ └── test_utils.py
-├── README.md
-└── requirements.txt
+├── src/  <br>
+│ ├── main.py <br>
+│ ├── utils/ <br>
+│ │ ├── helper.py <br>
+│ │ └── config.py <br>
+│ └── models/ <br>
+│ ├── model.py <br>
+│ └── init.py <br>
+├── data/ <br>
+│ ├── raw/ <br>
+│ └── processed/ <br>
+├── tests/ <br>
+│ ├── test_main.py <br>
+│ └── test_utils.py <br>
+├── README.md <br>
+└── requirements.txt <br>
