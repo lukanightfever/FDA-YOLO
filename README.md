@@ -16,4 +16,22 @@ Install
 
 2.Install [Rotated_IoU](https://github.com/lilanxiao/Rotated_IoU) under folder utils/.
 
-
+Get Started
+===
+project/
+├── src/
+│ ├── main.py
+│ ├── utils/
+│ │ ├── helper.py
+│ │ └── config.py
+│ └── models/
+│ ├── model.py
+│ └── init.py
+├── data/
+│ ├── raw/
+│ └── processed/
+├── tests/
+│ ├── test_main.py
+│ └── test_utils.py
+├── README.md
+└── requirements.txt
