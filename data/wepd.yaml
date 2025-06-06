@@ -1,0 +1,7 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: ../wepdtdof/images/train/  # 118k images
+val: ../wepdtdof/images/val/  # 5k images
+test: ../wepdtdof/images/train/  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+# number of classes
+nc: 1
+names: ['person']

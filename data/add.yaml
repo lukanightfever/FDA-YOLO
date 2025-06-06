@@ -1,0 +1,16 @@
+# train and val datasets (image directory or *.txt file with image paths)
+#train: ../VOC/images/train/  # 118k images
+#val: ../VOC/images/val/  # 5k images
+#test: ../VOC/images/test/  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+# number of classes
+
+train: ../Adding/images/train/  # 118k images
+val: ../Adding/images/train/  # 5k images
+test: ../Adding/images/train/  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+
+nc: 4
+#nc: 15
+# class names
+names: ['person','car','bicycle','e-bike']
+#names: ['plane', 'baseball-diamond', 'bridge', 'ground-track-field', 'small-vehicle', 'large-vehicle', 'ship', 'tennis-court',
+#                'basketball-court', 'storage-tank',  'soccer-ball-field', 'roundabout', 'harbor', 'swimming-pool', 'helicopter']

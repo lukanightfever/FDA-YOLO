@@ -1,0 +1,30 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: ../dior/images/trainval/  # 118k images
+val: ../dior/images/val/  # 5k images
+test: ../dior/images/test/  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+
+# number of classes
+nc: 20
+
+# class names
+names: ["airplane", 
+        "airport",
+        "baseballfield",
+        "basketballcourt",
+        "bridge",
+        "chimney",
+        "dam",
+        "Expressway-Service-area",
+        "Expressway-toll-station",
+        #"golfcourse",
+        "golffield",
+        "groundtrackfield",
+        "harbor",
+        "overpass",
+        "ship",
+        "stadium",
+        "storagetank",
+        "tenniscourt",
+        "trainstation",
+        "vehicle",
+        "windmill"]
