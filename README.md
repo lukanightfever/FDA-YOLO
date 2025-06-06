@@ -35,3 +35,14 @@ Place [yolov7.pt](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yo
 
 Place [demo.pt](https://pan.baidu.com/s/1PykpLVPb0aN_YsChi-_f5Q?pwd=rngf) under runs/train/voc/weights/. <br>
 
+Train
+===
+```
+python train-voc.py
+```
+
+Test
+===
+```
+python test.py
+```
