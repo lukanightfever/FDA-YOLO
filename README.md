@@ -24,3 +24,7 @@ root/  <br>
 ├── FDA-YOLO/  <br>
 └── VOC(vocformat) <br>
 
+Generate the table, and modify the corresponding path: <br>
+```
+python tables.py
+```
