@@ -22,9 +22,13 @@ Get Started
 Place the dataset in the following location:<br>
 root/  <br>
 ├── FDA-YOLO/  <br>
+├── yolov7.pt  <br>
 └── VOC(vocformat) <br>
+
 
 Generate the table, and modify the corresponding path: <br>
 ```
 python tables.py
 ```
+
+Place [yolov7](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) under FDA-YOLO.
