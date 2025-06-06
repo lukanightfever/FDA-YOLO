@@ -18,6 +18,9 @@ Install
 
 Get Started
 ===
+
+Place the dataset in the following location:<br>
 root/  <br>
 ├── FDA-YOLO/  <br>
 └── VOC(vocformat) <br>
+
