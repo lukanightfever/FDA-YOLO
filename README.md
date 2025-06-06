@@ -26,7 +26,7 @@ root/  <br>
 └── VOC(vocformat) <br>
 
 
-Generate the table, and modify the corresponding path: <br>
+Generate mosaic_linetable.txt and mosaic_igtable.txt and modify the corresponding path(Optional, they are already presented in the dataset): <br>
 ```
 python tables.py
 ```
