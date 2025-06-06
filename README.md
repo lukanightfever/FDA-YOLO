@@ -18,7 +18,7 @@ Install
 
 Get Started
 ===
-project/
+project/  <br>
 ├── src/
 │ ├── main.py
 │ ├── utils/
