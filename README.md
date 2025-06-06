@@ -31,4 +31,7 @@ Generate mosaic_linetable.txt and mosaic_igtable.txt and modify the correspondin
 python tables.py
 ```
 
-Place [yolov7](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) under FDA-YOLO.
+Place [yolov7.pt](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) under the folder FDA-YOLO/. <br>
+
+Place [demo.pt](https://pan.baidu.com/s/1PykpLVPb0aN_YsChi-_f5Q?pwd=rngf) under runs/train/voc/weights/. <br>
+
