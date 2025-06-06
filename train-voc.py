@@ -575,7 +575,7 @@ def train(hyp, opt, device, tb_writer=None):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--weights', type=str, default='runs/train/voc/weights/best.pt', help='initial weights path')
+    parser.add_argument('--weights', type=str, default='runs/train/voc/weights/demo.pt', help='initial weights path')
     #parser.add_argument('--weights', type=str, default='runs/train/exp416/weights/last.pt', help='initial weights path')
     #parser.add_argument('--weights', type=str, default='yolov7.pt', help='initial weights path')
     #parser.add_argument('--weights', type=str, default='', help='initial weights path')
