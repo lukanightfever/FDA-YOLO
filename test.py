@@ -303,7 +303,7 @@ def test(data,
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='test.py')
-    parser.add_argument('--weights', type=str, default='runs/train/voc/weights/best.pt', help='model.pt path(s)')
+    parser.add_argument('--weights', type=str, default='runs/train/voc/weights/demo.pt', help='model.pt path(s)')
     parser.add_argument('--cfg', type=str, default='models/yolov7-att.yaml', help='model.yaml path')
     parser.add_argument('--data', type=str, default='data/voc.yaml', help='*.data path')
     parser.add_argument('--batch-size', type=int, default=4, help='size of each image batch')
