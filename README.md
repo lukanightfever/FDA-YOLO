@@ -18,7 +18,7 @@ Install
 
 Get Started
 ===
-project/  <br>
+root/  <br>
 ├── src/  <br>
 │ ├── main.py <br>
 │ ├── utils/ <br>
@@ -34,4 +34,4 @@ project/  <br>
 │ ├── test_main.py <br>
 │ └── test_utils.py <br>
 ├── README.md <br>
-└── requirements.txt <br>
+└── VOC <br>
