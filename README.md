@@ -19,19 +19,5 @@ Install
 Get Started
 ===
 root/  <br>
-├── src/  <br>
-│ ├── main.py <br>
-│ ├── utils/ <br>
-│ │ ├── helper.py <br>
-│ │ └── config.py <br>
-│ └── models/ <br>
-│ ├── model.py <br>
-│ └── init.py <br>
-├── data/ <br>
-│ ├── raw/ <br>
-│ └── processed/ <br>
-├── tests/ <br>
-│ ├── test_main.py <br>
-│ └── test_utils.py <br>
-├── README.md <br>
+├── FDA-YOLO/  <br>
 └── VOC <br>
