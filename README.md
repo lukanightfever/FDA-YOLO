@@ -14,6 +14,6 @@ Install
 ===
 1.Refer to [YOLOv7](https://github.com/WongKinYiu/yolov7) for the installation.
 
-2.Install [Rotated_IoU](https://github.com/lilanxiao/Rotated_IoU) under utils/.
+2.Install [Rotated_IoU](https://github.com/lilanxiao/Rotated_IoU) under folder utils/.
 
 
