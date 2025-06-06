@@ -12,8 +12,8 @@ cls, x/img_w, y/img_h, w/img_w, h/imgh, theta
 
 Install
 ===
-1.Refer to [YOLOv7](https://github.com/WongKinYiu/yolov7)<br> for the installation.
+1.Refer to [YOLOv7](https://github.com/WongKinYiu/yolov7) for the installation.
 
-2.Install [Rotated_IoU](https://github.com/lilanxiao/Rotated_IoU)<br> under utils/.
+2.Install [Rotated_IoU](https://github.com/lilanxiao/Rotated_IoU) under utils/.
 
 
