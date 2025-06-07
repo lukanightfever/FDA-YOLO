@@ -22,7 +22,7 @@ Get Started
 Place the dataset in the following location:<br>
 root/  <br>
 ├── FDA-YOLO/  <br>
-├── yolov7.pt  <br>
+│   └── yolov7.pt  <br>
 └── VOC(vocformat) <br>
 
 
