@@ -21,11 +21,11 @@ Get Started
 
 Place the dataset in the following location:<br>
 ```
-root/  <br>
-├── FDA-YOLO/  <br>
+root/ 
+├── FDA-YOLO/  
 │   ├── README.md
-│   └── yolov7.pt  <br>
-└── VOC(vocformat) <br>
+│   └── yolov7.pt
+└── VOC(vocformat)
 ```
 Generate mosaic_linetable.txt and mosaic_igtable.txt and modify the corresponding path(Optional, they are already contained in [here](https://pan.baidu.com/s/1NaTZuoIslkxCGQQTKQsQRA?pwd=yndg)): <br>
 ```
